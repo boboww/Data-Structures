@@ -1,0 +1,5 @@
+# Calculates the minimum number of moves for a Towers of Hanoi (TOH) solution. 
+# The memory layout of the program after halting should be [N, Result] 
+# where N was the number of disks passed into the program and Result is the minimum number of steps. 
+# Try to reverse engineering other GVM programs to get your TOH program working. 
+# A working program is worth 10 extra points and is defined in the second test case.
